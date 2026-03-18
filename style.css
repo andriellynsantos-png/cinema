@@ -1,0 +1,55 @@
+/* Cor do fundo da página */
+body {
+    background-color: #000000;
+    font-family: Arial, sans-serif;
+}
+
+/* Cor da section */
+section {
+    background-color: #e33030;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+/* Cada div com uma cor diferente usando ID */
+#filme {
+    background-color: #1725a1;
+    color: #ffffff;
+    padding: 15px;
+    margin: 10px 0;
+    border-radius: 8px;
+}
+
+#pipos {
+    background-color: #aed425;
+    color: #ffffff;
+    padding: 15px;
+    margin: 10px 0;
+    border-radius: 8px;
+}
+
+#horarios {
+    background-color: #d3a730;
+    color: #ffffff;
+    padding: 15px;
+    margin: 10px 0;
+    border-radius: 8px;
+}
+
+.lista-filmes {
+    background-color: #f0f0f0;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 10px;
+    color: #000000;
+}
+
+/* Títulos */
+h1 {
+    text-align: center;
+}
+
+h2 {
+    margin-bottom: 5px;
+}
